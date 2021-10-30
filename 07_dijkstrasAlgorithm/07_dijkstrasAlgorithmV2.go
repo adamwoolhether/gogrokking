@@ -42,6 +42,7 @@ func main() {
 		"fin": "",
 	}
 
+	// ALGO STARTS HERE
 	// find the lowest cost nodeV2 and run the algo
 	nodeV2 := findLowestCostNodeV2(costsV2)
 	for nodeV2 != "" {
